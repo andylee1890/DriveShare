@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-011",
+  "name": "FCE考试资料大全",
+  "description": "雅思强预备：深度辅导、真题解法及词汇手册",
+  "category": "FCE",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-011-root",
+      "position": 1,
+      "title": "FCE考试资料大全",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/6b8a3fc62da1"
+    }
+  ]
+}

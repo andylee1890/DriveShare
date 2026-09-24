@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-042",
+  "name": "留学资料汇总",
+  "description": "留学攻略：选校办理及海外生活全指南",
+  "category": "留学",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-042-root",
+      "position": 1,
+      "title": "留学资料汇总",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/2fbfdf7f80b6"
+    }
+  ]
+}

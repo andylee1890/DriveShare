@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T09:17:47.057186+00:00",
+  "generatedAt": "2026-09-24T15:25:40.216108+00:00",
   "repository": "andylee1890/DriveShare",
   "repositoryUrl": "https://github.com/andylee1890/DriveShare",
   "website": "https://englishanchor.online",
@@ -161,8 +161,2181 @@
       "iconUrl": "/DriveShare/assets/providers/cloudflare-r2.svg"
     }
   ],
-  "setCount": 1,
+  "setCount": 54,
   "sets": [
+    {
+      "id": "englishub-quark-001",
+      "name": "100篇TED(带PDF)",
+      "description": "TED精选：视频及双语PDF，在思想碰撞中听",
+      "category": "TED",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-001-root",
+          "position": 1,
+          "title": "100篇TED(带PDF)",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/6d6c4423a466",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:30.569940+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/6d6c4423a466",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-002",
+      "name": "30天出国生存",
+      "description": "实战大通关：还原生存场景，摆脱尴尬期",
+      "category": "30D",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-002-root",
+          "position": 1,
+          "title": "30天出国生存",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/294b11535cb1",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:30.745074+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/294b11535cb1",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-003",
+      "name": "38门小语种合集",
+      "description": "小语种包：法语、韩语等多语种教材合辑",
+      "category": "小",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-003-root",
+          "position": 1,
+          "title": "38门小语种合集",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a78c3722a134",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:30.889569+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/a78c3722a134",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-004",
+      "name": "BBC纪录片合集",
+      "description": "BBC合辑：学术磨耳，提升综合素养与语感",
+      "category": "BBC",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-004-root",
+          "position": 1,
+          "title": "BBC纪录片合集",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/90c99accd271",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:31.022134+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/90c99accd271",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-005",
+      "name": "BEC英语资料大全",
+      "description": "职场竞争：真题模拟、商务函电及口语策略",
+      "category": "BEC",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-005-root",
+          "position": 1,
+          "title": "BEC英语资料大全",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a7071e8225ce",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:31.155393+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/a7071e8225ce",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-006",
+      "name": "CATTI翻译考试资料",
+      "description": "翻译殿堂：二三级笔译口译教程及真题解析",
+      "category": "翻译",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-006-root",
+          "position": 1,
+          "title": "CATTI翻译考试资料",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/2e63c0c345d6",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:31.306908+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/2e63c0c345d6",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-007",
+      "name": "DK English全套丛书",
+      "description": "视觉教学：图解单词与语法，认知更直观",
+      "category": "DK",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-007-root",
+          "position": 1,
+          "title": "DK English全套丛书",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a8229891905e",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:31.448154+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/a8229891905e",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-008",
+      "name": "DWords 弹幕式",
+      "description": "弹幕记词：内容的视觉轰炸，利用潜意识",
+      "category": "弹幕",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-008-root",
+          "position": 1,
+          "title": "DWords 弹幕式",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/8909c3426ddd",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:31.576236+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/8909c3426ddd",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-009",
+      "name": "English in Use全套",
+      "description": "权威基石：剑桥系列，夯实词汇与语法应用",
+      "category": "IUE",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-009-root",
+          "position": 1,
+          "title": "English in Use全套",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/dcdf6eb165ac",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:31.711726+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/dcdf6eb165ac",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-010",
+      "name": "Enjoy AI",
+      "description": "Enjoy AI: 多模态私教，视频及PDF拆解",
+      "category": "E",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-010-root",
+          "position": 1,
+          "title": "Enjoy AI",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/42d5b8f68079",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:31.850308+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/42d5b8f68079",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-011",
+      "name": "FCE考试资料大全",
+      "description": "雅思强预备：深度辅导、真题解法及词汇手册",
+      "category": "FCE",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-011-root",
+          "position": 1,
+          "title": "FCE考试资料大全",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/6b8a3fc62da1",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:31.984026+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/6b8a3fc62da1",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-012",
+      "name": "GMAT全科资料精选",
+      "description": "商院入场券：逻辑推理、数学精讲及核心阅读",
+      "category": "GMAT",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-012-root",
+          "position": 1,
+          "title": "GMAT全科资料精选",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/3cf17d4d04aa",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:32.131297+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/3cf17d4d04aa",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-013",
+      "name": "GRE备考资料精选",
+      "description": "留学门槛：词汇红宝书、长难句及写作辅导",
+      "category": "GRE",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-013-root",
+          "position": 1,
+          "title": "GRE备考资料精选",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/ed959028f472",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:32.270048+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/ed959028f472",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-014",
+      "name": "KET考试资料大全",
+      "description": "评估标杆：官方样卷、核心考点及分项操练",
+      "category": "KET",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-014-root",
+          "position": 1,
+          "title": "KET考试资料大全",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/a68f5bd181e9",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:32.414548+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/a68f5bd181e9",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-015",
+      "name": "Kid 's Box剑桥教材",
+      "description": "趣味课堂：趣味教材全集，融合游戏与系统",
+      "category": "Kids",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-015-root",
+          "position": 1,
+          "title": "Kid 's Box剑桥教材",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/2dd5b5f98154",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:32.565311+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/2dd5b5f98154",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-016",
+      "name": "PET考试资料大全",
+      "description": "进阶测评：全套教材、模拟真题及写作模板",
+      "category": "PET",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-016-root",
+          "position": 1,
+          "title": "PET考试资料大全",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/5f0f2ad84226",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:32.737699+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/5f0f2ad84226",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-017",
+      "name": "PTE备考资料大全",
+      "description": "机考突围：高频题库、评分解析及智能模考",
+      "category": "PTE",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-017-root",
+          "position": 1,
+          "title": "PTE备考资料大全",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/48adb9e1c31a",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:32.889552+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/48adb9e1c31a",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-018",
+      "name": "SAT备考复习精选",
+      "description": "名校之路：官方指南解析、历年真题及提分点",
+      "category": "SAT",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-018-root",
+          "position": 1,
+          "title": "SAT备考复习精选",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/868c62a6aac4",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:33.025224+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/868c62a6aac4",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-019",
+      "name": "Slow English",
+      "description": "慢速英语：新闻播报语速放缓，听懂无压力",
+      "category": "SE",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-019-root",
+          "position": 1,
+          "title": "Slow English",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/0e1a7de6bfbd",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:33.185397+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/0e1a7de6bfbd",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-020",
+      "name": "TEM-8英专八级备考",
+      "description": "英专荣誉：权威专八备考指南，助力突破阅读",
+      "category": "专八",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-020-root",
+          "position": 1,
+          "title": "TEM-8英专八级备考",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/53047daf83fa",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:33.329638+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/53047daf83fa",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-021",
+      "name": "ToastFish",
+      "description": "摸鱼神器：隐藏在通知栏，利用碎片时间",
+      "category": "鱼",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-021-root",
+          "position": 1,
+          "title": "ToastFish",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/deafa24d69f2",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:33.492675+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/deafa24d69f2",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-022",
+      "name": "Unlock 0-5级教材",
+      "description": "进阶思维：剑桥权威教程，打磨逻辑与表达",
+      "category": "UK",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-022-root",
+          "position": 1,
+          "title": "Unlock 0-5级教材",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/1d58627e5e28",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:33.656814+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/1d58627e5e28",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-023",
+      "name": "上千本词书大全",
+      "description": "词书合订：海量词库文件，支持主流App",
+      "category": "词库",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-023-root",
+          "position": 1,
+          "title": "上千本词书大全",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/813e2842063a",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:33.846609+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/813e2842063a",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-024",
+      "name": "中学英语资料大全",
+      "description": "提分笔记：初高中考点串讲、题型及作文范文",
+      "category": "中学",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-024-root",
+          "position": 1,
+          "title": "中学英语资料大全",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/5230aee3bd71",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:34.002283+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/5230aee3bd71",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-025",
+      "name": "书虫系列双语小说",
+      "description": "书虫系列：牛津分级读物，英汉对照解决难关",
+      "category": "书虫",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-025-root",
+          "position": 1,
+          "title": "书虫系列双语小说",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/10ce32943197",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:34.163949+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/10ce32943197",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-026",
+      "name": "儿童版音标课程",
+      "description": "快乐启蒙：专为青少年设计的发音入门课",
+      "category": "童音",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-026-root",
+          "position": 1,
+          "title": "儿童版音标课程",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/097e0e74ad91",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:34.326010+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/097e0e74ad91",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-027",
+      "name": "全国各级英语课本",
+      "description": "同步资源：K12全阶段课本电子版，预习必备",
+      "category": "课本",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-027-root",
+          "position": 1,
+          "title": "全国各级英语课本",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/10bfdffc4cf9",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:34.485533+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/10bfdffc4cf9",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-028",
+      "name": "初学口语教程",
+      "description": "生存口语：场景化实战，掌握日常交际",
+      "category": "初级",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-028-root",
+          "position": 1,
+          "title": "初学口语教程",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/ca60b0ad74d5",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:34.659840+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/ca60b0ad74d5",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-029",
+      "name": "剑桥口语课程",
+      "description": "流利说：权威教程，助你谈吐得体自如",
+      "category": "剑桥",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-029-root",
+          "position": 1,
+          "title": "剑桥口语课程",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/acda252afe9f",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:34.829922+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/acda252afe9f",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-030",
+      "name": "口语学习方法",
+      "description": "思维重构：打破哑巴英语，建立输出逻辑",
+      "category": "思维",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-030-root",
+          "position": 1,
+          "title": "口语学习方法",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/9d3581fb78c3",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:34.992432+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/9d3581fb78c3",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-031",
+      "name": "商务邮件课程",
+      "description": "商务邮件：实战演练全场景职场邮件写法",
+      "category": "商务",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-031-root",
+          "position": 1,
+          "title": "商务邮件课程",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/6b5da65275b3",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:35.148420+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/6b5da65275b3",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-032",
+      "name": "四六级英语资料大全",
+      "description": "过级通关：听力练耳、翻译技巧及历届真题",
+      "category": "CET",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-032-root",
+          "position": 1,
+          "title": "四六级英语资料大全",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/6dfe96983ad5",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:35.345493+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/6dfe96983ad5",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-033",
+      "name": "外刊精读合集",
+      "description": "精读合集：2024外刊合订本，带生词注解",
+      "category": "精读",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-033-root",
+          "position": 1,
+          "title": "外刊精读合集",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/875ed440113e",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:35.506446+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/875ed440113e",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-034",
+      "name": "外贸口语教学",
+      "description": "外贸实战：还原商谈场景，职场必备",
+      "category": "外贸",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-034-root",
+          "position": 1,
+          "title": "外贸口语教学",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/3c79060db37d",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:35.668368+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/3c79060db37d",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-035",
+      "name": "学前英语教育",
+      "description": "少儿启蒙：精选千部动画、儿歌及互动绘本",
+      "category": "启蒙",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-035-root",
+          "position": 1,
+          "title": "学前英语教育",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/77e0b1fb7d46",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:35.822431+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/77e0b1fb7d46",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-036",
+      "name": "幕境MuJing",
+      "description": "幕境：影视素材转化为拼写关卡，深度吸收",
+      "category": "幕境",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-036-root",
+          "position": 1,
+          "title": "幕境MuJing",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/9d351dded1cf",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:35.971246+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/9d351dded1cf",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-037",
+      "name": "托业TOEIC备考资料",
+      "description": "商务通证：听力阅读训练及全套模拟题合集",
+      "category": "TOEIC",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-037-root",
+          "position": 1,
+          "title": "托业TOEIC备考资料",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/1bba46de6926",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:36.143703+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/1bba46de6926",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-038",
+      "name": "托福备考资料合集",
+      "description": "提分宝库：TPO真题精解、词汇及万用模板",
+      "category": "TOEFL",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-038-root",
+          "position": 1,
+          "title": "托福备考资料合集",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/5ddebfa6ddbf",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:36.342178+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/5ddebfa6ddbf",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-039",
+      "name": "新概念英语全套资源",
+      "description": "学习圣经：1-4册全套电子书、音频及名师视频",
+      "category": "NCE",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-039-root",
+          "position": 1,
+          "title": "新概念英语全套资源",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/74e0747fcf06",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:36.515958+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/74e0747fcf06",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-040",
+      "name": "法律英语证书LEC",
+      "description": "法律专业：备考技巧及网课资料，职场晋升",
+      "category": "法律",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-040-root",
+          "position": 1,
+          "title": "法律英语证书LEC",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/d32faae382da",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:36.680247+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/d32faae382da",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-041",
+      "name": "演讲稿合集",
+      "description": "演说稿库：从政治家到TED全套演讲文稿",
+      "category": "稿子",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-041-root",
+          "position": 1,
+          "title": "演讲稿合集",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/f7a9b06e8078",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:36.833481+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/f7a9b06e8078",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-042",
+      "name": "留学资料汇总",
+      "description": "留学攻略：选校办理及海外生活全指南",
+      "category": "留学",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-042-root",
+          "position": 1,
+          "title": "留学资料汇总",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/2fbfdf7f80b6",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:36.993211+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/2fbfdf7f80b6",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-043",
+      "name": "美式发音教学",
+      "description": "标准美音：系统训练，掌握美语独特韵律",
+      "category": "美音",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-043-root",
+          "position": 1,
+          "title": "美式发音教学",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/92ad01f577ad",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:37.188612+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/92ad01f577ad",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-044",
+      "name": "考研英语资料合集",
+      "description": "2027考研相关视频及历年真题（英语、数学、政治）",
+      "category": "考研",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-044-root",
+          "position": 1,
+          "title": "考研英语资料合集",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/d6b93201e073",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:37.379110+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/d6b93201e073",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-045",
+      "name": "英文原著3750册",
+      "description": "原著库：3750册英文原著、名著及流行读物",
+      "category": "书籍",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-045-root",
+          "position": 1,
+          "title": "英文原著3750册",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/5be7282ca5ce",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:37.560360+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/5be7282ca5ce",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-046",
+      "name": "英语俚语词典大全",
+      "description": "道地表达：俚语辞典，教你像母语者一样交流",
+      "category": "俚语",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-046-root",
+          "position": 1,
+          "title": "英语俚语词典大全",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/e2dc5957585c",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:37.724614+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/e2dc5957585c",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-047",
+      "name": "英语教材资料汇总",
+      "description": "同步资源：人教版、冀教版等各版本小学/初中/高中英语教材资源汇总",
+      "category": "小学",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-047-root",
+          "position": 1,
+          "title": "英语教材资料汇总",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/0d0f29fda055",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:37.884767+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/0d0f29fda055",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-048",
+      "name": "英语短句天天练",
+      "description": "短句天天练：英语超短句，从单词到掌握句子，适合跟读",
+      "category": "短句",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-048-root",
+          "position": 1,
+          "title": "英语短句天天练",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/379a3c53bbe2",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:38.085583+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/379a3c53bbe2",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-049",
+      "name": "英语短语跟读",
+      "description": "短语跟读：生活常用短语，天天都在用的万用英文会话",
+      "category": "短语",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-049-root",
+          "position": 1,
+          "title": "英语短语跟读",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/d4d455bb66d4",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:38.258625+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/d4d455bb66d4",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-050",
+      "name": "速懂旅游英语",
+      "description": "应急口语：出国必刷，搞定值机及订房",
+      "category": "2H",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-050-root",
+          "position": 1,
+          "title": "速懂旅游英语",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/77c7bd9080d4",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:38.472713+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/77c7bd9080d4",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-051",
+      "name": "雅思最全资料合集",
+      "description": "备考全家桶：最新真题、全套教材及名师课件",
+      "category": "IELTS",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-051-root",
+          "position": 1,
+          "title": "雅思最全资料合集",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/be7588e7f7b4",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:38.631958+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/be7588e7f7b4",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-052",
+      "name": "雅思资料最全合集",
+      "description": "备考全家桶：最新真题、解析及保分资料",
+      "category": "雅思",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-052-root",
+          "position": 1,
+          "title": "雅思资料最全合集",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/5839d29b743c",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:38.823190+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/5839d29b743c",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
+    {
+      "id": "englishub-quark-053",
+      "name": "高考听力(15-24)",
+      "description": "高考冲刺：历年真题音频及原文",
+      "category": "GK",
+      "status": "published",
+      "provider": "夸克网盘",
+      "updatedAt": "2026-09-24",
+      "source": {
+        "pageUrl": "https://englishub.cn/",
+        "pageTitle": "Englishub 英语学习资源导航",
+        "capturedFrom": "kua.html (本地来源文件)"
+      },
+      "links": [
+        {
+          "id": "englishub-quark-053-root",
+          "position": 1,
+          "title": "高考听力(15-24)",
+          "kind": "root",
+          "provider": "夸克网盘",
+          "url": "https://pan.quark.cn/s/be3bfdcc6310",
+          "providerInfo": {
+            "name": "夸克网盘",
+            "providerId": "quark",
+            "icon": "/DriveShare/assets/providers/quark.ico"
+          },
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T15:25:39.022567+00:00",
+            "httpStatus": 200,
+            "finalUrl": "https://pan.quark.cn/s/be3bfdcc6310",
+            "error": null
+          }
+        }
+      ],
+      "providerInfo": {
+        "name": "夸克网盘",
+        "providerId": "quark",
+        "icon": "/DriveShare/assets/providers/quark.ico"
+      }
+    },
     {
       "id": "nce-1-4-900g-full",
       "name": "新概念英语1-4册(900G完整版)【全格式分享补全版】",
@@ -186,7 +2359,7 @@
           },
           "health": {
             "state": "online",
-            "checkedAt": "2026-09-24T09:00:36.690508+00:00",
+            "checkedAt": "2026-09-24T15:25:39.169706+00:00",
             "httpStatus": 204,
             "finalUrl": "https://www.aliyundrive.com/s/TSKLizUPfPr",
             "error": null
@@ -206,7 +2379,7 @@
           },
           "health": {
             "state": "online",
-            "checkedAt": "2026-09-24T09:00:36.821661+00:00",
+            "checkedAt": "2026-09-24T15:25:39.321534+00:00",
             "httpStatus": 204,
             "finalUrl": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640275068d04d4c19c244b7f9ba4ee729f8505c7",
             "error": null
@@ -226,7 +2399,7 @@
           },
           "health": {
             "state": "online",
-            "checkedAt": "2026-09-24T09:00:36.987294+00:00",
+            "checkedAt": "2026-09-24T15:25:39.467754+00:00",
             "httpStatus": 204,
             "finalUrl": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640538622ead810f96934c0aad2adfbf41f168bf",
             "error": null
@@ -246,7 +2419,7 @@
           },
           "health": {
             "state": "online",
-            "checkedAt": "2026-09-24T09:00:37.136417+00:00",
+            "checkedAt": "2026-09-24T15:25:39.627737+00:00",
             "httpStatus": 204,
             "finalUrl": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/6405b29693d8b10fbe12473b8de56ecb4c3ffd78",
             "error": null
@@ -266,7 +2439,7 @@
           },
           "health": {
             "state": "online",
-            "checkedAt": "2026-09-24T09:00:37.286914+00:00",
+            "checkedAt": "2026-09-24T15:25:39.781520+00:00",
             "httpStatus": 204,
             "finalUrl": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640486ddb6d1c6c3e09c4453b6c2d1feabbddf0b",
             "error": null

@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-027",
+  "name": "全国各级英语课本",
+  "description": "同步资源：K12全阶段课本电子版，预习必备",
+  "category": "课本",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-027-root",
+      "position": 1,
+      "title": "全国各级英语课本",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/10bfdffc4cf9"
+    }
+  ]
+}

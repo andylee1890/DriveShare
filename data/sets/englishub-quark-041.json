@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-041",
+  "name": "演讲稿合集",
+  "description": "演说稿库：从政治家到TED全套演讲文稿",
+  "category": "稿子",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-041-root",
+      "position": 1,
+      "title": "演讲稿合集",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/f7a9b06e8078"
+    }
+  ]
+}

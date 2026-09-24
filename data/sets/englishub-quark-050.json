@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-050",
+  "name": "速懂旅游英语",
+  "description": "应急口语：出国必刷，搞定值机及订房",
+  "category": "2H",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-050-root",
+      "position": 1,
+      "title": "速懂旅游英语",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/77c7bd9080d4"
+    }
+  ]
+}

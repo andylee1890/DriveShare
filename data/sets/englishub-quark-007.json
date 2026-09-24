@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-007",
+  "name": "DK English全套丛书",
+  "description": "视觉教学：图解单词与语法，认知更直观",
+  "category": "DK",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-007-root",
+      "position": 1,
+      "title": "DK English全套丛书",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/a8229891905e"
+    }
+  ]
+}

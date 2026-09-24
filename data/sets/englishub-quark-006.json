@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-006",
+  "name": "CATTI翻译考试资料",
+  "description": "翻译殿堂：二三级笔译口译教程及真题解析",
+  "category": "翻译",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-006-root",
+      "position": 1,
+      "title": "CATTI翻译考试资料",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/2e63c0c345d6"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-035",
+  "name": "学前英语教育",
+  "description": "少儿启蒙：精选千部动画、儿歌及互动绘本",
+  "category": "启蒙",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-035-root",
+      "position": 1,
+      "title": "学前英语教育",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/77e0b1fb7d46"
+    }
+  ]
+}

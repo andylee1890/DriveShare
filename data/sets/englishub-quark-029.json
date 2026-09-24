@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-029",
+  "name": "剑桥口语课程",
+  "description": "流利说：权威教程，助你谈吐得体自如",
+  "category": "剑桥",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-029-root",
+      "position": 1,
+      "title": "剑桥口语课程",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/acda252afe9f"
+    }
+  ]
+}

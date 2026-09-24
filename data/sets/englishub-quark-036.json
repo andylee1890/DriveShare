@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-036",
+  "name": "幕境MuJing",
+  "description": "幕境：影视素材转化为拼写关卡，深度吸收",
+  "category": "幕境",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-036-root",
+      "position": 1,
+      "title": "幕境MuJing",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/9d351dded1cf"
+    }
+  ]
+}

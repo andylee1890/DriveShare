@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-005",
+  "name": "BEC英语资料大全",
+  "description": "职场竞争：真题模拟、商务函电及口语策略",
+  "category": "BEC",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-005-root",
+      "position": 1,
+      "title": "BEC英语资料大全",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/a7071e8225ce"
+    }
+  ]
+}

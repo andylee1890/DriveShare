@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-016",
+  "name": "PET考试资料大全",
+  "description": "进阶测评：全套教材、模拟真题及写作模板",
+  "category": "PET",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-016-root",
+      "position": 1,
+      "title": "PET考试资料大全",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/5f0f2ad84226"
+    }
+  ]
+}

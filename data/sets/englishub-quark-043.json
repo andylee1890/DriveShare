@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-043",
+  "name": "美式发音教学",
+  "description": "标准美音：系统训练，掌握美语独特韵律",
+  "category": "美音",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-043-root",
+      "position": 1,
+      "title": "美式发音教学",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/92ad01f577ad"
+    }
+  ]
+}

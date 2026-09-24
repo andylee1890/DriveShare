@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-004",
+  "name": "BBC纪录片合集",
+  "description": "BBC合辑：学术磨耳，提升综合素养与语感",
+  "category": "BBC",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-004-root",
+      "position": 1,
+      "title": "BBC纪录片合集",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/90c99accd271"
+    }
+  ]
+}

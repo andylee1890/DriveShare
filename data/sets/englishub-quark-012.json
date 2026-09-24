@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-012",
+  "name": "GMAT全科资料精选",
+  "description": "商院入场券：逻辑推理、数学精讲及核心阅读",
+  "category": "GMAT",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-012-root",
+      "position": 1,
+      "title": "GMAT全科资料精选",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/3cf17d4d04aa"
+    }
+  ]
+}

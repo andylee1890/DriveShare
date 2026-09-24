@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-025",
+  "name": "书虫系列双语小说",
+  "description": "书虫系列：牛津分级读物，英汉对照解决难关",
+  "category": "书虫",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-025-root",
+      "position": 1,
+      "title": "书虫系列双语小说",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/10ce32943197"
+    }
+  ]
+}

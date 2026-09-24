@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-048",
+  "name": "英语短句天天练",
+  "description": "短句天天练：英语超短句，从单词到掌握句子，适合跟读",
+  "category": "短句",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-048-root",
+      "position": 1,
+      "title": "英语短句天天练",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/379a3c53bbe2"
+    }
+  ]
+}

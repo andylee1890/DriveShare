@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-047",
+  "name": "英语教材资料汇总",
+  "description": "同步资源：人教版、冀教版等各版本小学/初中/高中英语教材资源汇总",
+  "category": "小学",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-047-root",
+      "position": 1,
+      "title": "英语教材资料汇总",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/0d0f29fda055"
+    }
+  ]
+}

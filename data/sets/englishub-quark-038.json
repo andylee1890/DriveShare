@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-038",
+  "name": "托福备考资料合集",
+  "description": "提分宝库：TPO真题精解、词汇及万用模板",
+  "category": "TOEFL",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-038-root",
+      "position": 1,
+      "title": "托福备考资料合集",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/5ddebfa6ddbf"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-044",
+  "name": "考研英语资料合集",
+  "description": "2027考研相关视频及历年真题（英语、数学、政治）",
+  "category": "考研",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-044-root",
+      "position": 1,
+      "title": "考研英语资料合集",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/d6b93201e073"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-015",
+  "name": "Kid 's Box剑桥教材",
+  "description": "趣味课堂：趣味教材全集，融合游戏与系统",
+  "category": "Kids",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-015-root",
+      "position": 1,
+      "title": "Kid 's Box剑桥教材",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/2dd5b5f98154"
+    }
+  ]
+}

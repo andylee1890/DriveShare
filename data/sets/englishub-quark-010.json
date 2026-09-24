@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-010",
+  "name": "Enjoy AI",
+  "description": "Enjoy AI: 多模态私教，视频及PDF拆解",
+  "category": "E",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-010-root",
+      "position": 1,
+      "title": "Enjoy AI",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/42d5b8f68079"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-039",
+  "name": "新概念英语全套资源",
+  "description": "学习圣经：1-4册全套电子书、音频及名师视频",
+  "category": "NCE",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-039-root",
+      "position": 1,
+      "title": "新概念英语全套资源",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/74e0747fcf06"
+    }
+  ]
+}

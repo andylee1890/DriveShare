@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-031",
+  "name": "商务邮件课程",
+  "description": "商务邮件：实战演练全场景职场邮件写法",
+  "category": "商务",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-031-root",
+      "position": 1,
+      "title": "商务邮件课程",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/6b5da65275b3"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-049",
+  "name": "英语短语跟读",
+  "description": "短语跟读：生活常用短语，天天都在用的万用英文会话",
+  "category": "短语",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-049-root",
+      "position": 1,
+      "title": "英语短语跟读",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/d4d455bb66d4"
+    }
+  ]
+}

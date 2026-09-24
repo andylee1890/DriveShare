@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-001",
+  "name": "100篇TED(带PDF)",
+  "description": "TED精选：视频及双语PDF，在思想碰撞中听",
+  "category": "TED",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-001-root",
+      "position": 1,
+      "title": "100篇TED(带PDF)",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/6d6c4423a466"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-018",
+  "name": "SAT备考复习精选",
+  "description": "名校之路：官方指南解析、历年真题及提分点",
+  "category": "SAT",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-018-root",
+      "position": 1,
+      "title": "SAT备考复习精选",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/868c62a6aac4"
+    }
+  ]
+}

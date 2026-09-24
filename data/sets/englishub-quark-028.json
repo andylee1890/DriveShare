@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-028",
+  "name": "初学口语教程",
+  "description": "生存口语：场景化实战，掌握日常交际",
+  "category": "初级",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-028-root",
+      "position": 1,
+      "title": "初学口语教程",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/ca60b0ad74d5"
+    }
+  ]
+}

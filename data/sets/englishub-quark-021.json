@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-021",
+  "name": "ToastFish",
+  "description": "摸鱼神器：隐藏在通知栏，利用碎片时间",
+  "category": "鱼",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-021-root",
+      "position": 1,
+      "title": "ToastFish",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/deafa24d69f2"
+    }
+  ]
+}

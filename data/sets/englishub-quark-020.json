@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-020",
+  "name": "TEM-8英专八级备考",
+  "description": "英专荣誉：权威专八备考指南，助力突破阅读",
+  "category": "专八",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-020-root",
+      "position": 1,
+      "title": "TEM-8英专八级备考",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/53047daf83fa"
+    }
+  ]
+}

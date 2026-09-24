@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-024",
+  "name": "中学英语资料大全",
+  "description": "提分笔记：初高中考点串讲、题型及作文范文",
+  "category": "中学",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-024-root",
+      "position": 1,
+      "title": "中学英语资料大全",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/5230aee3bd71"
+    }
+  ]
+}

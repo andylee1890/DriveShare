@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-037",
+  "name": "托业TOEIC备考资料",
+  "description": "商务通证：听力阅读训练及全套模拟题合集",
+  "category": "TOEIC",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-037-root",
+      "position": 1,
+      "title": "托业TOEIC备考资料",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/1bba46de6926"
+    }
+  ]
+}

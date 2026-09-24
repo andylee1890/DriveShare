@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-045",
+  "name": "英文原著3750册",
+  "description": "原著库：3750册英文原著、名著及流行读物",
+  "category": "书籍",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-045-root",
+      "position": 1,
+      "title": "英文原著3750册",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/5be7282ca5ce"
+    }
+  ]
+}

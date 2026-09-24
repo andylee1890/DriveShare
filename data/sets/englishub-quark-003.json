@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-003",
+  "name": "38门小语种合集",
+  "description": "小语种包：法语、韩语等多语种教材合辑",
+  "category": "小",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-003-root",
+      "position": 1,
+      "title": "38门小语种合集",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/a78c3722a134"
+    }
+  ]
+}

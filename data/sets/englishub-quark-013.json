@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-013",
+  "name": "GRE备考资料精选",
+  "description": "留学门槛：词汇红宝书、长难句及写作辅导",
+  "category": "GRE",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-013-root",
+      "position": 1,
+      "title": "GRE备考资料精选",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/ed959028f472"
+    }
+  ]
+}

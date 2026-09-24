@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-019",
+  "name": "Slow English",
+  "description": "慢速英语：新闻播报语速放缓，听懂无压力",
+  "category": "SE",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-019-root",
+      "position": 1,
+      "title": "Slow English",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/0e1a7de6bfbd"
+    }
+  ]
+}

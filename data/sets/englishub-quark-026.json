@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-026",
+  "name": "儿童版音标课程",
+  "description": "快乐启蒙：专为青少年设计的发音入门课",
+  "category": "童音",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-026-root",
+      "position": 1,
+      "title": "儿童版音标课程",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/097e0e74ad91"
+    }
+  ]
+}

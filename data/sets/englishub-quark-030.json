@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-030",
+  "name": "口语学习方法",
+  "description": "思维重构：打破哑巴英语，建立输出逻辑",
+  "category": "思维",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-030-root",
+      "position": 1,
+      "title": "口语学习方法",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/9d3581fb78c3"
+    }
+  ]
+}

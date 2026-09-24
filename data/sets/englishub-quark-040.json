@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-040",
+  "name": "法律英语证书LEC",
+  "description": "法律专业：备考技巧及网课资料，职场晋升",
+  "category": "法律",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-040-root",
+      "position": 1,
+      "title": "法律英语证书LEC",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/d32faae382da"
+    }
+  ]
+}

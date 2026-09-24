@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-022",
+  "name": "Unlock 0-5级教材",
+  "description": "进阶思维：剑桥权威教程，打磨逻辑与表达",
+  "category": "UK",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-022-root",
+      "position": 1,
+      "title": "Unlock 0-5级教材",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/1d58627e5e28"
+    }
+  ]
+}

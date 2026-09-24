@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-009",
+  "name": "English in Use全套",
+  "description": "权威基石：剑桥系列，夯实词汇与语法应用",
+  "category": "IUE",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-009-root",
+      "position": 1,
+      "title": "English in Use全套",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/dcdf6eb165ac"
+    }
+  ]
+}

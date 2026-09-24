@@ -1,0 +1,24 @@
+{
+  "id": "englishub-quark-032",
+  "name": "四六级英语资料大全",
+  "description": "过级通关：听力练耳、翻译技巧及历届真题",
+  "category": "CET",
+  "status": "published",
+  "provider": "夸克网盘",
+  "updatedAt": "2026-09-24",
+  "source": {
+    "pageUrl": "https://englishub.cn/",
+    "pageTitle": "Englishub 英语学习资源导航",
+    "capturedFrom": "kua.html (本地来源文件)"
+  },
+  "links": [
+    {
+      "id": "englishub-quark-032-root",
+      "position": 1,
+      "title": "四六级英语资料大全",
+      "kind": "root",
+      "provider": "夸克网盘",
+      "url": "https://pan.quark.cn/s/6dfe96983ad5"
+    }
+  ]
+}
