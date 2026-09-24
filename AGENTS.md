@@ -14,6 +14,7 @@ DriveShare is a public index of external cloud-drive share sets. It is not a fil
 - `data/sets/*.json` is the editable source. `data/index.json` is the website-facing aggregate generated from those files.
 - `data/providers.json` is the provider catalog. Provider icons live in `assets/providers/`; use its stable provider ID and relative icon path in generated website data.
 - Each set has a `keyword` field: a short, human-readable label for website icon generation and quick recognition. Keep it concise and stable; it does not replace `category`.
+- Each set has a unique positive integer `sortOrder`; the website-facing index is generated in ascending order. Use gaps between values so new sets can be inserted without renumbering the whole catalog.
 - Link health is separate from content: `data/link-status.json` records the latest automated observation keyed by link ID. A failed check must not silently delete or rewrite a link.
 
 ## Stable identifiers

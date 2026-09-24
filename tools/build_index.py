@@ -37,6 +37,13 @@ def main() -> None:
             if link["id"] in link_ids:
                 raise ValueError(f"Duplicate link id: {link['id']}")
             link_ids.add(link["id"])
+        if not isinstance(item.get("sortOrder"), int) or item["sortOrder"] < 1:
+            raise ValueError(f"Set {item['id']} must have a positive integer sortOrder")
+
+    sort_orders = [item["sortOrder"] for item in sets]
+    if len(sort_orders) != len(set(sort_orders)):
+        raise ValueError("sortOrder values must be unique")
+    sets.sort(key=lambda item: (item["sortOrder"], item["id"]))
 
     status = read_json(status_path) if status_path.exists() else {"links": {}}
     health_by_id = status.get("links", {})
