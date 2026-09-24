@@ -31,8 +31,8 @@ Automated HTTP checks are advisory. Aliyun and other providers may reject `HEAD`
 ## Index workflow
 
 1. Edit or add one file in `data/sets/`.
-2. Validate JSON and run `tools/build-index.ps1`.
-3. Run `tools/check-links.ps1`; inspect the generated report and `data/link-status.json`.
+2. Validate JSON and run `python tools/build_index.py`.
+3. Run `python tools/check_links.py`; inspect the generated report and `data/link-status.json`.
 4. Review changes to title, URLs, ordering, and status manually.
 5. Commit source files, the regenerated `data/index.json`, and link status only when the status change is useful to consumers.
 
@@ -45,4 +45,3 @@ R2 is a deployment target, not the source of truth. Sync only the public DriveSh
 `rclone sync DriveShare/data r2-english-anchor:english-anchor-public-prod/DriveShare/data`
 
 Do not sync `.git`, `reports`, `temp`, local credentials, or arbitrary workspace files. Verify the remote index after synchronization.
-
