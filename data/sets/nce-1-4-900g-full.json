@@ -1,0 +1,51 @@
+{
+  "id": "nce-1-4-900g-full",
+  "name": "新概念英语1-4册(900G完整版)【全格式分享补全版】",
+  "description": "新概念英语第一至第四册的综合学习资源分享，包含总分享入口和各册重点教学视频目录。",
+  "category": "新概念英语",
+  "status": "published",
+  "provider": "阿里云盘",
+  "updatedAt": "2026-09-24",
+  "links": [
+    {
+      "id": "nce-1-4-900g-full-root",
+      "position": 1,
+      "title": "总分享入口",
+      "kind": "root",
+      "provider": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/TSKLizUPfPr"
+    },
+    {
+      "id": "nce-1-4-900g-full-nce1-video",
+      "position": 2,
+      "title": "重点学习：新概念第1册 2021版霍娜教学视频",
+      "kind": "folder",
+      "provider": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640275068d04d4c19c244b7f9ba4ee729f8505c7"
+    },
+    {
+      "id": "nce-1-4-900g-full-nce2-video",
+      "position": 3,
+      "title": "重点学习：新概念第2册 2021年田静教学视频",
+      "kind": "folder",
+      "provider": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640538622ead810f96934c0aad2adfbf41f168bf"
+    },
+    {
+      "id": "nce-1-4-900g-full-nce3-video",
+      "position": 4,
+      "title": "重点学习：新概念第3册 2021新版教学视频",
+      "kind": "folder",
+      "provider": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/6405b29693d8b10fbe12473b8de56ecb4c3ffd78"
+    },
+    {
+      "id": "nce-1-4-900g-full-nce4-video",
+      "position": 5,
+      "title": "重点学习：新概念第4册 2021新版教学视频",
+      "kind": "folder",
+      "provider": "阿里云盘",
+      "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640486ddb6d1c6c3e09c4453b6c2d1feabbddf0b"
+    }
+  ]
+}

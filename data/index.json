@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-24T08:47:54.1943082Z",
+  "repository": "andylee1890/DriveShare",
+  "repositoryUrl": "https://github.com/andylee1890/DriveShare",
+  "website": "https://englishanchor.online",
+  "purpose": "English Anchor 网盘分享套索引，供网站展示和检索。",
+  "indexPath": "/DriveShare/data/index.json",
+  "statusValues": {
+    "published": "公开展示中的分享套。",
+    "archived": "历史记录，不作为默认推荐。",
+    "draft": "尚未完成核验，不应作为稳定资源推荐。"
+  },
+  "linkHealthValues": {
+    "unchecked": "尚未检查。",
+    "online": "HTTP 请求可达；不代表网盘内容完整。",
+    "redirected": "发生跳转，需要人工确认最终页面。",
+    "requires_manual_check": "需要登录、Cookie、口令或反爬验证。",
+    "offline": "请求失败或明确不可达。",
+    "unknown": "无法可靠判断。"
+  },
+  "providers": [
+    "阿里云盘"
+  ],
+  "setCount": 1,
+  "sets": [
+    {
+      "id": "nce-1-4-900g-full",
+      "name": "新概念英语1-4册(900G完整版)【全格式分享补全版】",
+      "description": "新概念英语第一至第四册的综合学习资源分享，包含总分享入口和各册重点教学视频目录。",
+      "category": "新概念英语",
+      "status": "published",
+      "provider": "阿里云盘",
+      "updatedAt": "2026-09-24",
+      "links": [
+        {
+          "id": "nce-1-4-900g-full-root",
+          "position": 1,
+          "title": "总分享入口",
+          "kind": "root",
+          "provider": "阿里云盘",
+          "url": "https://www.aliyundrive.com/s/TSKLizUPfPr",
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T08:47:12.8991578Z",
+            "httpStatus": 204,
+            "finalUrl": null,
+            "error": null
+          }
+        },
+        {
+          "id": "nce-1-4-900g-full-nce1-video",
+          "position": 2,
+          "title": "重点学习：新概念第1册 2021版霍娜教学视频",
+          "kind": "folder",
+          "provider": "阿里云盘",
+          "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640275068d04d4c19c244b7f9ba4ee729f8505c7",
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T08:47:13.0991714Z",
+            "httpStatus": 204,
+            "finalUrl": null,
+            "error": null
+          }
+        },
+        {
+          "id": "nce-1-4-900g-full-nce2-video",
+          "position": 3,
+          "title": "重点学习：新概念第2册 2021年田静教学视频",
+          "kind": "folder",
+          "provider": "阿里云盘",
+          "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640538622ead810f96934c0aad2adfbf41f168bf",
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T08:47:13.2096497Z",
+            "httpStatus": 204,
+            "finalUrl": null,
+            "error": null
+          }
+        },
+        {
+          "id": "nce-1-4-900g-full-nce3-video",
+          "position": 4,
+          "title": "重点学习：新概念第3册 2021新版教学视频",
+          "kind": "folder",
+          "provider": "阿里云盘",
+          "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/6405b29693d8b10fbe12473b8de56ecb4c3ffd78",
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T08:47:13.3204269Z",
+            "httpStatus": 204,
+            "finalUrl": null,
+            "error": null
+          }
+        },
+        {
+          "id": "nce-1-4-900g-full-nce4-video",
+          "position": 5,
+          "title": "重点学习：新概念第4册 2021新版教学视频",
+          "kind": "folder",
+          "provider": "阿里云盘",
+          "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640486ddb6d1c6c3e09c4453b6c2d1feabbddf0b",
+          "health": {
+            "state": "online",
+            "checkedAt": "2026-09-24T08:47:13.4392662Z",
+            "httpStatus": 204,
+            "finalUrl": null,
+            "error": null
+          }
+        }
+      ]
+    }
+  ]
+}

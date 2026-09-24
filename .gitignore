@@ -1,0 +1,9 @@
+# Rebuildable validation output
+reports/
+temp/
+*.log
+
+# Local tooling state
+.env
+.env.*
+

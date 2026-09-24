@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-09-24T08:47:13.5449433Z",
+  "links": {
+    "nce-1-4-900g-full-root": {
+      "state": "online",
+      "checkedAt": "2026-09-24T08:47:12.8991578Z",
+      "httpStatus": 204,
+      "finalUrl": null,
+      "error": null
+    },
+    "nce-1-4-900g-full-nce1-video": {
+      "state": "online",
+      "checkedAt": "2026-09-24T08:47:13.0991714Z",
+      "httpStatus": 204,
+      "finalUrl": null,
+      "error": null
+    },
+    "nce-1-4-900g-full-nce2-video": {
+      "state": "online",
+      "checkedAt": "2026-09-24T08:47:13.2096497Z",
+      "httpStatus": 204,
+      "finalUrl": null,
+      "error": null
+    },
+    "nce-1-4-900g-full-nce3-video": {
+      "state": "online",
+      "checkedAt": "2026-09-24T08:47:13.3204269Z",
+      "httpStatus": 204,
+      "finalUrl": null,
+      "error": null
+    },
+    "nce-1-4-900g-full-nce4-video": {
+      "state": "online",
+      "checkedAt": "2026-09-24T08:47:13.4392662Z",
+      "httpStatus": 204,
+      "finalUrl": null,
+      "error": null
+    }
+  }
+}
