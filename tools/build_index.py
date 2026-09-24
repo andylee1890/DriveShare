@@ -19,6 +19,7 @@ def main() -> None:
     root = args.root.resolve()
     set_dir = root / "data" / "sets"
     status_path = root / "data" / "link-status.json"
+    providers_path = root / "data" / "providers.json"
     index_path = root / "data" / "index.json"
 
     sets = [read_json(path) for path in sorted(set_dir.glob("*.json"))]
@@ -39,6 +40,34 @@ def main() -> None:
 
     status = read_json(status_path) if status_path.exists() else {"links": {}}
     health_by_id = status.get("links", {})
+    provider_catalog = read_json(providers_path).get("providers", []) if providers_path.exists() else []
+    provider_by_name = {item["name"]: item for item in provider_catalog}
+    provider_aliases = {
+        "阿里云盘": "aliyun-drive", "百度网盘": "baidu-netdisk", "115生活": "115",
+        "夸克网盘": "quark", "UC网盘": "uc-drive", "天翼云盘": "tianyi",
+        "腾讯微云": "weiyun", "PikPak": "pikpak", "360云盘": "360-yunpan",
+        "Google Drive": "google-drive", "OneDrive": "onedrive", "Dropbox": "dropbox",
+        "MEGA": "mega", "pCloud": "pcloud", "Proton Drive": "proton-drive",
+        "Yandex Disk": "yandex-disk", "iCloud Drive": "icloud-drive", "Seafile": "seafile",
+        "Box": "box", "Cloudflare R2": "cloudflare-r2",
+    }
+    provider_by_id = {item["id"]: item for item in provider_catalog}
+    provider_catalog_public = []
+    for item in provider_catalog:
+        public_item = dict(item)
+        if item.get("icon"):
+            public_item["iconUrl"] = f"/DriveShare/assets/providers/{item['icon']}"
+        provider_catalog_public.append(public_item)
+
+    def provider_info(name: str) -> dict:
+        provider_id = provider_aliases.get(name)
+        item = provider_by_id.get(provider_id) if provider_id else provider_by_name.get(name)
+        if not item:
+            return {"name": name, "providerId": provider_id}
+        result = {"name": item["name"], "providerId": item["id"]}
+        if item.get("icon"):
+            result["icon"] = f"/DriveShare/assets/providers/{item['icon']}"
+        return result
     index = {
         "schemaVersion": 1,
         "generatedAt": datetime.now(timezone.utc).isoformat(),
@@ -60,15 +89,17 @@ def main() -> None:
             "offline": "请求失败或明确不可达。",
             "unknown": "无法可靠判断。",
         },
-        "providers": sorted({item["provider"] for item in sets}),
+        "providers": provider_catalog_public or sorted({item["provider"] for item in sets}),
         "setCount": len(sets),
         "sets": [],
     }
     for source in sets:
         item = dict(source)
+        item["providerInfo"] = provider_info(source["provider"])
         item["links"] = []
         for source_link in sorted(source["links"], key=lambda link: link["position"]):
             link = dict(source_link)
+            link["providerInfo"] = provider_info(source_link["provider"])
             if source_link["id"] in health_by_id:
                 link["health"] = health_by_id[source_link["id"]]
             item["links"].append(link)
@@ -80,4 +111,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

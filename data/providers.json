@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "purpose": "网盘提供商目录及网页展示图标。",
+  "iconBasePath": "/DriveShare/assets/providers/",
+  "providers": [
+    { "id": "aliyun-drive", "name": "阿里云盘", "icon": "aliyun-drive.ico", "source": "https://www.aliyundrive.com/favicon.ico" },
+    { "id": "baidu-netdisk", "name": "百度网盘", "icon": "baidu.svg", "source": "https://github.com/simple-icons/simple-icons" },
+    { "id": "115", "name": "115生活", "icon": "115.ico", "source": "https://115.com/favicon.ico" },
+    { "id": "quark", "name": "夸克网盘", "icon": "quark.ico", "source": "https://pan.quark.cn/favicon.ico" },
+    { "id": "uc-drive", "name": "UC网盘", "icon": "uc-drive.ico", "source": "https://drive.uc.cn/favicon.ico" },
+    { "id": "tianyi", "name": "天翼云盘", "icon": null, "source": null, "iconNote": "待补充官方图标" },
+    { "id": "weiyun", "name": "腾讯微云", "icon": "weiyun.ico", "source": "https://www.weiyun.com/favicon.ico" },
+    { "id": "pikpak", "name": "PikPak", "icon": "pikpak.ico", "source": "https://mypikpak.com/favicon.ico" },
+    { "id": "360-yunpan", "name": "360云盘", "icon": "360-yunpan.ico", "source": "https://yunpan.360.cn/favicon.ico" },
+    { "id": "google-drive", "name": "Google Drive", "icon": "google-drive.svg", "source": "https://github.com/simple-icons/simple-icons" },
+    { "id": "onedrive", "name": "OneDrive", "icon": null, "source": null, "iconNote": "待补充官方图标" },
+    { "id": "dropbox", "name": "Dropbox", "icon": "dropbox.svg", "source": "https://github.com/simple-icons/simple-icons" },
+    { "id": "mega", "name": "MEGA", "icon": "mega.svg", "source": "https://github.com/simple-icons/simple-icons" },
+    { "id": "pcloud", "name": "pCloud", "icon": null, "source": null, "iconNote": "待补充官方图标" },
+    { "id": "proton-drive", "name": "Proton Drive", "icon": "proton-drive.svg", "source": "https://github.com/simple-icons/simple-icons" },
+    { "id": "yandex-disk", "name": "Yandex Disk", "icon": "yandex-disk.svg", "source": "https://github.com/simple-icons/simple-icons" },
+    { "id": "icloud-drive", "name": "iCloud Drive", "icon": "icloud-drive.svg", "source": "https://github.com/simple-icons/simple-icons" },
+    { "id": "seafile", "name": "Seafile", "icon": "seafile.svg", "source": "https://github.com/simple-icons/simple-icons" },
+    { "id": "box", "name": "Box", "icon": "box.svg", "source": "https://github.com/simple-icons/simple-icons" },
+    { "id": "cloudflare-r2", "name": "Cloudflare R2", "icon": "cloudflare-r2.svg", "source": "https://github.com/simple-icons/simple-icons" }
+  ]
+}

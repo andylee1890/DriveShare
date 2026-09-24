@@ -12,6 +12,7 @@ DriveShare is a public index of external cloud-drive share sets. It is not a fil
 - `provider` is the normalized Chinese provider name, such as `阿里云盘`.
 - Keep URLs exactly as supplied by the owner. Do not shorten, rewrite, or append tracking parameters.
 - `data/sets/*.json` is the editable source. `data/index.json` is the website-facing aggregate generated from those files.
+- `data/providers.json` is the provider catalog. Provider icons live in `assets/providers/`; use its stable provider ID and relative icon path in generated website data.
 - Link health is separate from content: `data/link-status.json` records the latest automated observation keyed by link ID. A failed check must not silently delete or rewrite a link.
 
 ## Stable identifiers
@@ -35,6 +36,8 @@ Automated HTTP checks are advisory. Aliyun and other providers may reject `HEAD`
 3. Run `python tools/check_links.py`; inspect the generated report and `data/link-status.json`.
 4. Review changes to title, URLs, ordering, and status manually.
 5. Commit source files, the regenerated `data/index.json`, and link status only when the status change is useful to consumers.
+
+When adding a provider, first check the AList and rclone source inventories. Do not claim support merely because a backend exists: rclone backends often require account authorization and are not public-share providers. Do not copy third-party repositories into the project; keep research clones under the workspace `tmp/` directory.
 
 The index must retain `schemaVersion`, `generatedAt`, `repository`, `website`, `statusValues`, `providers`, and the complete `sets` array. Do not make the website reconstruct sets by scanning a GitHub repository.
 

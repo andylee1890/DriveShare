@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T09:00:37.737861+00:00",
+  "generatedAt": "2026-09-24T09:17:47.057186+00:00",
   "repository": "andylee1890/DriveShare",
   "repositoryUrl": "https://github.com/andylee1890/DriveShare",
   "website": "https://englishanchor.online",
@@ -20,7 +20,146 @@
     "unknown": "无法可靠判断。"
   },
   "providers": [
-    "阿里云盘"
+    {
+      "id": "aliyun-drive",
+      "name": "阿里云盘",
+      "icon": "aliyun-drive.ico",
+      "source": "https://www.aliyundrive.com/favicon.ico",
+      "iconUrl": "/DriveShare/assets/providers/aliyun-drive.ico"
+    },
+    {
+      "id": "baidu-netdisk",
+      "name": "百度网盘",
+      "icon": "baidu.svg",
+      "source": "https://github.com/simple-icons/simple-icons",
+      "iconUrl": "/DriveShare/assets/providers/baidu.svg"
+    },
+    {
+      "id": "115",
+      "name": "115生活",
+      "icon": "115.ico",
+      "source": "https://115.com/favicon.ico",
+      "iconUrl": "/DriveShare/assets/providers/115.ico"
+    },
+    {
+      "id": "quark",
+      "name": "夸克网盘",
+      "icon": "quark.ico",
+      "source": "https://pan.quark.cn/favicon.ico",
+      "iconUrl": "/DriveShare/assets/providers/quark.ico"
+    },
+    {
+      "id": "uc-drive",
+      "name": "UC网盘",
+      "icon": "uc-drive.ico",
+      "source": "https://drive.uc.cn/favicon.ico",
+      "iconUrl": "/DriveShare/assets/providers/uc-drive.ico"
+    },
+    {
+      "id": "tianyi",
+      "name": "天翼云盘",
+      "icon": null,
+      "source": null,
+      "iconNote": "待补充官方图标"
+    },
+    {
+      "id": "weiyun",
+      "name": "腾讯微云",
+      "icon": "weiyun.ico",
+      "source": "https://www.weiyun.com/favicon.ico",
+      "iconUrl": "/DriveShare/assets/providers/weiyun.ico"
+    },
+    {
+      "id": "pikpak",
+      "name": "PikPak",
+      "icon": "pikpak.ico",
+      "source": "https://mypikpak.com/favicon.ico",
+      "iconUrl": "/DriveShare/assets/providers/pikpak.ico"
+    },
+    {
+      "id": "360-yunpan",
+      "name": "360云盘",
+      "icon": "360-yunpan.ico",
+      "source": "https://yunpan.360.cn/favicon.ico",
+      "iconUrl": "/DriveShare/assets/providers/360-yunpan.ico"
+    },
+    {
+      "id": "google-drive",
+      "name": "Google Drive",
+      "icon": "google-drive.svg",
+      "source": "https://github.com/simple-icons/simple-icons",
+      "iconUrl": "/DriveShare/assets/providers/google-drive.svg"
+    },
+    {
+      "id": "onedrive",
+      "name": "OneDrive",
+      "icon": null,
+      "source": null,
+      "iconNote": "待补充官方图标"
+    },
+    {
+      "id": "dropbox",
+      "name": "Dropbox",
+      "icon": "dropbox.svg",
+      "source": "https://github.com/simple-icons/simple-icons",
+      "iconUrl": "/DriveShare/assets/providers/dropbox.svg"
+    },
+    {
+      "id": "mega",
+      "name": "MEGA",
+      "icon": "mega.svg",
+      "source": "https://github.com/simple-icons/simple-icons",
+      "iconUrl": "/DriveShare/assets/providers/mega.svg"
+    },
+    {
+      "id": "pcloud",
+      "name": "pCloud",
+      "icon": null,
+      "source": null,
+      "iconNote": "待补充官方图标"
+    },
+    {
+      "id": "proton-drive",
+      "name": "Proton Drive",
+      "icon": "proton-drive.svg",
+      "source": "https://github.com/simple-icons/simple-icons",
+      "iconUrl": "/DriveShare/assets/providers/proton-drive.svg"
+    },
+    {
+      "id": "yandex-disk",
+      "name": "Yandex Disk",
+      "icon": "yandex-disk.svg",
+      "source": "https://github.com/simple-icons/simple-icons",
+      "iconUrl": "/DriveShare/assets/providers/yandex-disk.svg"
+    },
+    {
+      "id": "icloud-drive",
+      "name": "iCloud Drive",
+      "icon": "icloud-drive.svg",
+      "source": "https://github.com/simple-icons/simple-icons",
+      "iconUrl": "/DriveShare/assets/providers/icloud-drive.svg"
+    },
+    {
+      "id": "seafile",
+      "name": "Seafile",
+      "icon": "seafile.svg",
+      "source": "https://github.com/simple-icons/simple-icons",
+      "iconUrl": "/DriveShare/assets/providers/seafile.svg"
+    },
+    {
+      "id": "box",
+      "name": "Box",
+      "icon": "box.svg",
+      "source": "https://github.com/simple-icons/simple-icons",
+      "iconUrl": "/DriveShare/assets/providers/box.svg"
+    },
+    {
+      "id": "cloudflare-r2",
+      "name": "Cloudflare R2",
+      "icon": "cloudflare-r2.svg",
+      "source": "https://github.com/simple-icons/simple-icons",
+      "iconUrl": "/DriveShare/assets/providers/cloudflare-r2.svg"
+    }
   ],
   "setCount": 1,
   "sets": [
@@ -40,6 +179,11 @@
           "kind": "root",
           "provider": "阿里云盘",
           "url": "https://www.aliyundrive.com/s/TSKLizUPfPr",
+          "providerInfo": {
+            "name": "阿里云盘",
+            "providerId": "aliyun-drive",
+            "icon": "/DriveShare/assets/providers/aliyun-drive.ico"
+          },
           "health": {
             "state": "online",
             "checkedAt": "2026-09-24T09:00:36.690508+00:00",
@@ -55,6 +199,11 @@
           "kind": "folder",
           "provider": "阿里云盘",
           "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640275068d04d4c19c244b7f9ba4ee729f8505c7",
+          "providerInfo": {
+            "name": "阿里云盘",
+            "providerId": "aliyun-drive",
+            "icon": "/DriveShare/assets/providers/aliyun-drive.ico"
+          },
           "health": {
             "state": "online",
             "checkedAt": "2026-09-24T09:00:36.821661+00:00",
@@ -70,6 +219,11 @@
           "kind": "folder",
           "provider": "阿里云盘",
           "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640538622ead810f96934c0aad2adfbf41f168bf",
+          "providerInfo": {
+            "name": "阿里云盘",
+            "providerId": "aliyun-drive",
+            "icon": "/DriveShare/assets/providers/aliyun-drive.ico"
+          },
           "health": {
             "state": "online",
             "checkedAt": "2026-09-24T09:00:36.987294+00:00",
@@ -85,6 +239,11 @@
           "kind": "folder",
           "provider": "阿里云盘",
           "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/6405b29693d8b10fbe12473b8de56ecb4c3ffd78",
+          "providerInfo": {
+            "name": "阿里云盘",
+            "providerId": "aliyun-drive",
+            "icon": "/DriveShare/assets/providers/aliyun-drive.ico"
+          },
           "health": {
             "state": "online",
             "checkedAt": "2026-09-24T09:00:37.136417+00:00",
@@ -100,6 +259,11 @@
           "kind": "folder",
           "provider": "阿里云盘",
           "url": "https://www.aliyundrive.com/s/TSKLizUPfPr/folder/640486ddb6d1c6c3e09c4453b6c2d1feabbddf0b",
+          "providerInfo": {
+            "name": "阿里云盘",
+            "providerId": "aliyun-drive",
+            "icon": "/DriveShare/assets/providers/aliyun-drive.ico"
+          },
           "health": {
             "state": "online",
             "checkedAt": "2026-09-24T09:00:37.286914+00:00",
@@ -108,7 +272,12 @@
             "error": null
           }
         }
-      ]
+      ],
+      "providerInfo": {
+        "name": "阿里云盘",
+        "providerId": "aliyun-drive",
+        "icon": "/DriveShare/assets/providers/aliyun-drive.ico"
+      }
     }
   ]
 }
