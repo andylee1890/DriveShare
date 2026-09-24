@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-24T15:25:40.216108+00:00",
+  "generatedAt": "2026-09-24T15:33:11.195004+00:00",
   "repository": "andylee1890/DriveShare",
   "repositoryUrl": "https://github.com/andylee1890/DriveShare",
   "website": "https://englishanchor.online",
@@ -198,6 +198,7 @@
           }
         }
       ],
+      "keyword": "TED",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -239,6 +240,7 @@
           }
         }
       ],
+      "keyword": "出国",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -280,6 +282,7 @@
           }
         }
       ],
+      "keyword": "小语种",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -321,6 +324,7 @@
           }
         }
       ],
+      "keyword": "BBC",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -362,6 +366,7 @@
           }
         }
       ],
+      "keyword": "BEC",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -403,6 +408,7 @@
           }
         }
       ],
+      "keyword": "CATTI",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -444,6 +450,7 @@
           }
         }
       ],
+      "keyword": "DK",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -485,6 +492,7 @@
           }
         }
       ],
+      "keyword": "DWords",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -526,6 +534,7 @@
           }
         }
       ],
+      "keyword": "English in Use",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -567,6 +576,7 @@
           }
         }
       ],
+      "keyword": "Enjoy AI",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -608,6 +618,7 @@
           }
         }
       ],
+      "keyword": "FCE",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -649,6 +660,7 @@
           }
         }
       ],
+      "keyword": "GMAT",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -690,6 +702,7 @@
           }
         }
       ],
+      "keyword": "GRE",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -731,6 +744,7 @@
           }
         }
       ],
+      "keyword": "KET",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -772,6 +786,7 @@
           }
         }
       ],
+      "keyword": "Kids Box",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -813,6 +828,7 @@
           }
         }
       ],
+      "keyword": "PET",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -854,6 +870,7 @@
           }
         }
       ],
+      "keyword": "PTE",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -895,6 +912,7 @@
           }
         }
       ],
+      "keyword": "SAT",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -936,6 +954,7 @@
           }
         }
       ],
+      "keyword": "Slow English",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -977,6 +996,7 @@
           }
         }
       ],
+      "keyword": "TEM-8",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1018,6 +1038,7 @@
           }
         }
       ],
+      "keyword": "ToastFish",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1059,6 +1080,7 @@
           }
         }
       ],
+      "keyword": "Unlock",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1100,6 +1122,7 @@
           }
         }
       ],
+      "keyword": "词书",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1141,6 +1164,7 @@
           }
         }
       ],
+      "keyword": "中学英语",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1182,6 +1206,7 @@
           }
         }
       ],
+      "keyword": "书虫",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1223,6 +1248,7 @@
           }
         }
       ],
+      "keyword": "音标",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1264,6 +1290,7 @@
           }
         }
       ],
+      "keyword": "英语课本",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1305,6 +1332,7 @@
           }
         }
       ],
+      "keyword": "初级口语",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1346,6 +1374,7 @@
           }
         }
       ],
+      "keyword": "剑桥口语",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1387,6 +1416,7 @@
           }
         }
       ],
+      "keyword": "口语方法",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1428,6 +1458,7 @@
           }
         }
       ],
+      "keyword": "商务邮件",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1469,6 +1500,7 @@
           }
         }
       ],
+      "keyword": "CET",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1510,6 +1542,7 @@
           }
         }
       ],
+      "keyword": "外刊",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1551,6 +1584,7 @@
           }
         }
       ],
+      "keyword": "外贸口语",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1592,6 +1626,7 @@
           }
         }
       ],
+      "keyword": "启蒙",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1633,6 +1668,7 @@
           }
         }
       ],
+      "keyword": "MuJing",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1674,6 +1710,7 @@
           }
         }
       ],
+      "keyword": "TOEIC",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1715,6 +1752,7 @@
           }
         }
       ],
+      "keyword": "TOEFL",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1756,6 +1794,7 @@
           }
         }
       ],
+      "keyword": "新概念",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1797,6 +1836,7 @@
           }
         }
       ],
+      "keyword": "LEC",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1838,6 +1878,7 @@
           }
         }
       ],
+      "keyword": "演讲",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1879,6 +1920,7 @@
           }
         }
       ],
+      "keyword": "留学",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1920,6 +1962,7 @@
           }
         }
       ],
+      "keyword": "美式发音",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -1961,6 +2004,7 @@
           }
         }
       ],
+      "keyword": "考研",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -2002,6 +2046,7 @@
           }
         }
       ],
+      "keyword": "英文原著",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -2043,6 +2088,7 @@
           }
         }
       ],
+      "keyword": "英语俚语",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -2084,6 +2130,7 @@
           }
         }
       ],
+      "keyword": "小学英语",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -2125,6 +2172,7 @@
           }
         }
       ],
+      "keyword": "英语短句",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -2166,6 +2214,7 @@
           }
         }
       ],
+      "keyword": "英语短语",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -2207,6 +2256,7 @@
           }
         }
       ],
+      "keyword": "旅游英语",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -2248,6 +2298,7 @@
           }
         }
       ],
+      "keyword": "IELTS",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -2289,6 +2340,7 @@
           }
         }
       ],
+      "keyword": "IELTS",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -2330,6 +2382,7 @@
           }
         }
       ],
+      "keyword": "高考听力",
       "providerInfo": {
         "name": "夸克网盘",
         "providerId": "quark",
@@ -2446,6 +2499,7 @@
           }
         }
       ],
+      "keyword": "新概念",
       "providerInfo": {
         "name": "阿里云盘",
         "providerId": "aliyun-drive",

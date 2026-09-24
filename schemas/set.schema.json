@@ -8,6 +8,7 @@
     "name": { "type": "string", "minLength": 1 },
     "description": { "type": "string" },
     "category": { "type": "string" },
+    "keyword": { "type": "string", "minLength": 1 },
     "status": { "enum": ["published", "archived", "draft"] },
     "provider": { "type": "string", "minLength": 1 },
     "updatedAt": { "type": "string", "format": "date" },
